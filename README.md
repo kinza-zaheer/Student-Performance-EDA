@@ -70,18 +70,10 @@ The goal is to uncover meaningful insights from educational data using data anal
 
 ---
 
-## 🚀 Future Improvements
-- Build predictive model for student performance
-- Add interactive dashboard (Power BI / Tableau)
-- Perform feature engineering for ML models
 
----
 
-## 👨‍💻 Author
-- Developed by: *[Your Name]*
-- Field: Data Analytics / Data Science
 
----
+
 
 ## 📜 License
 This project is for educational and portfolio purposes.
